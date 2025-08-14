@@ -54,6 +54,5 @@ Reduced data load time by 40% using T-SQL and SSIS for a financial reporting sys
 
 ---
 
-![SQL Optimization](https://example.com/sql-optimization-image.png)  
-![Power BI Dashboard](https://example.com/powerbi-dashboard-image.png)
+
 
