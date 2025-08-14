@@ -11,6 +11,25 @@ Results-driven Data Analyst with deep expertise in SQL query optimization, ETL p
 
 ---
 
+## 💼 What I Do
+
+- 🧠 **SQL Development & Optimization**  
+  Writing efficient queries, stored procedures, and performance tuning.
+
+- 📊 **Data Analysis & Profiling**  
+  Discovering patterns, trends, and anomalies to support decision-making.
+
+- 🔄 **ETL & Data Integration**  
+  Designing and managing data pipelines across diverse systems.
+
+- 📋 **Business Requirements Gathering**  
+  Collaborating with stakeholders to define and document needs.
+
+- 🚀 **Agile & SDLC Methodologies**  
+  Delivering projects in iterative cycles with cross-functional teams.
+
+ ---
+
 ## 💼 Professional Experience
 
 ### 🔹 Lead Technical Analyst / Sr. Technical Business Analyst  
