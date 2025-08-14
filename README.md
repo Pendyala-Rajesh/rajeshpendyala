@@ -10,8 +10,13 @@ Whether it’s optimizing ETL pipelines, building dashboards in Power BI, or wri
 ✅ Advanced SQL development & optimization
 
 📊 Business intelligence using SSRS, Power BI, Tableau
+
 🔄 ETL design, data integration & cleansing
+
 🧠 Requirements gathering & stakeholder collaboration
+
 🛠 Agile project management (JIRA, Azure DevOps)
+
 🔐 Data security & validation (MD5 encryption, SAML SSO)
+
 📈 Predictive analytics & reporting
