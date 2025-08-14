@@ -107,6 +107,3 @@ Results-driven Data Analyst with deep expertise in SQL query optimization, ETL p
 - 🗂️ GitHub: [github.com/rajeshpendyala](https://github.com/rajeshpendyala)
 
 ---
-
-![SQL Optimization](https://via.placeholder.com/600x300?text=SQL+Optimization+Workflow)  
-![Power BI Dashboard](https://via.placeholder.com/600x300?text=Power+BI+Dashboard+Sample)
