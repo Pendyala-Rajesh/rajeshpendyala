@@ -1,53 +1,87 @@
 # 👋 Hi, I'm Rajesh Pendyala
 
-🎯 **Technical Business Data Analyst**  
-🔍 Passionate about turning data into actionable insights and bridging the gap between business needs and technical execution.
+🎯 **Technical Business Data Analyst | SQL Specialist | Agile Analyst**  
+📍 Based in Laurel, MD | 📧 rajesh.net@live.com | 📞 (410) 294-8651
 
 ---
 
-## 💼 What I Do
+## 🧠 Objective
 
-- 🧠 **SQL Development & Optimization**  
-  Writing efficient queries, stored procedures, and performance tuning.
-
-- 📊 **Data Analysis & Profiling**  
-  Discovering patterns, trends, and anomalies to support decision-making.
-
-- 🔄 **ETL & Data Integration**  
-  Designing and managing data pipelines across diverse systems.
-
-- 📋 **Business Requirements Gathering**  
-  Collaborating with stakeholders to define and document needs.
-
-- 🚀 **Agile & SDLC Methodologies**  
-  Delivering projects in iterative cycles with cross-functional teams.
+Results-driven Data Analyst with deep expertise in SQL query optimization, ETL processes, and data development. Passionate about uncovering insights through analytics and enabling strategic, data-informed decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 💼 Professional Experience
 
-| Category | Tools |
-|---------|-------|
-| Programming | C#, T-SQL |
-| BI Tools | SSRS, SSIS, Power BI, Tableau, Crystal Reports |
-| Databases | MS SQL Server (2000–2017) |
-| Web Technologies | ASP.NET, SOAP/SOA, XML/XSL |
-| Methodologies | RUP, Six Sigma, Waterfall, Agile |
-| Tools | JIRA, Azure DevOps, MS Visio, MS Project |
+### 🔹 Lead Technical Analyst / Sr. Technical Business Analyst  
+**Office of Chief Technology Officer (Washington D.C.)**  
+*Sep 2019 – Present*  
+- Led SDLC efforts with strong testing and QA collaboration  
+- Performed advanced SQL-based data profiling, cleansing, and validation  
+- Authored BRDs, FSDs, SRS, RTMs using MS Visio and JIRA  
+- Built scalable 3-tier architecture and implemented MD5 encryption  
+- Managed project lifecycle in Azure DevOps and JIRA
+
+### 🔹 Data Business Analyst  
+**Microsoft Corp (Bellevue, WA)**  
+*Feb 2011 – Jan 2013*  
+- Architected descriptive, predictive, and prescriptive insights  
+- Developed SSRS reports and optimized CIAO product feeds using C#  
+- Serialized/deserialized JSON/XML formats for data transformation  
+- Applied Six Sigma techniques for process improvement
+
+### 🔹 Business Data Analyst  
+**Housing Authority of Baltimore City (Baltimore, MD)**  
+*Feb 2010 – Jan 2011*  
+- Designed architecture flow diagrams and UI screens  
+- Conducted JAD sessions and created executive SQL reports  
+- Led gap analysis and process modeling initiatives
+
+### 🔹 Salesforce Business Data Analyst  
+**Symantec Corp (Springfield, OR)**  
+*Nov 2008 – Jan 2010*  
+- Integrated enterprise applications and supported SSO with SAML  
+- Developed Salesforce reports, dashboards, and partner APIs  
+- Created ER models and architecture diagrams for offshore teams
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ Technical Skills
 
-### 🔹 **Sales Performance Dashboard**
-Built with Power BI and SQL Server to visualize regional sales trends and KPIs.
-
-### 🔹 **ETL Pipeline Optimization**
-Reduced data load time by 40% using T-SQL and SSIS for a financial reporting system.
+| Category         | Tools & Technologies                                 |
+|------------------|------------------------------------------------------|
+| Programming      | C#, T-SQL                                            |
+| BI Tools         | SSRS, SSIS, Power BI, Tableau                        |
+| Databases        | MS SQL Server (2000–2017)                            |
+| Web Technologies | ASP.NET, SOAP/SOA, XML/XSL                           |
+| Front-End        | HTML, CSS, JavaScript, jQuery                        |
+| Methodologies    | RUP, Six Sigma, Waterfall, Agile                     |
+| Tools            | JIRA, Azure DevOps, MS Visio, MS Project             |
 
 ---
 
-## 📬 Let's Connect
+## 📈 Sample Projects
+
+### 📊 Sales Performance Dashboard
+- Built with Power BI and SQL Server  
+- Delivered real-time KPIs and regional performance metrics
+
+### 🔄 ETL Pipeline Optimization
+- Reduced data load time by 40%  
+- Used SSIS and T-SQL for financial reporting
+
+---
+
+## 🎓 Education
+
+- Master of Science, USA (2008)  
+- Bachelor of Technology, Warangal, India (2004)  
+- Higher Diploma in Software Engineering, India (2004)  
+- Professional Diploma in Software Tech & Mgmt, India (2004)
+
+---
+
+## 📬 Connect with Me
 
 - 📧 Email: rajesh.net@live.com  
 - 🌐 LinkedIn: [linkedin.com/in/rajeshpendyala](https://linkedin.com/in/rajeshpendyala)  
@@ -55,55 +89,5 @@ Reduced data load time by 40% using T-SQL and SSIS for a financial reporting sys
 
 ---
 
-
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+![SQL Optimization](https://via.placeholder.com/600x300?text=SQL+Optimization+Workflow)  
+![Power BI Dashboard](https://via.placeholder.com/600x300?text=Power+BI+Dashboard+Sample)
