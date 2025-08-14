@@ -8,6 +8,7 @@ Whether it’s optimizing ETL pipelines, building dashboards in Power BI, or wri
 🔹 What I Bring to the Table
 
 ✅ Advanced SQL development & optimization
+
 📊 Business intelligence using SSRS, Power BI, Tableau
 🔄 ETL design, data integration & cleansing
 🧠 Requirements gathering & stakeholder collaboration
