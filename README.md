@@ -28,11 +28,12 @@
 
 | Category | Tools |
 |---------|-------|
-| BI Tools | SSRS, Power BI, Tableau |
-| Dev Tools | JIRA, Azure DevOps, MS Visio |
 | Programming | C#, T-SQL |
-| Methodologies | Agile, SDLC |
-| Data Tasks | Validation, Cleansing, Profiling |
+| BI Tools | SSRS, SSIS, Power BI, Tableau, Crystal Reports |
+| Databases | MS SQL Server (2000–2017) |
+| Web Technologies | ASP.NET, SOAP/SOA, XML/XSL |
+| Methodologies | RUP, Six Sigma, Waterfall, Agile |
+| Tools | JIRA, Azure DevOps, MS Visio, MS Project |
 
 ---
 
